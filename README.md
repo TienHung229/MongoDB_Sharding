@@ -1,3 +1,7 @@
+# Thông tin sinh viên
+- Họ và tên: Đinh Tiến Hùng
+- MSV: 23020538
+
 # MongoDB Replication and Sharding
 
 ## Replication
